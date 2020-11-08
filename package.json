@@ -1,0 +1,15 @@
+{
+  "name": "randomletter",
+  "version": "1.0.0",
+  "description": "Para el basta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erubiel Recoba",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.8.1",
+    "sound-play": "^1.0.5"
+  }
+}
