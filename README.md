@@ -8,6 +8,7 @@ Install NodeJS
 - Clone this project
 - Type `cd <folder's name created from clone>`
 - Maximize your terminal/console
+- Type `npm install`
 - Type `npm start`
 - Be ready for random letter
 - Start to write
